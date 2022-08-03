@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **typescript, redux**
 
-- 👨‍💻 All of my projects are available at [nsofianos.github.io](nsofianos.github.io)
+- 👨‍💻 All of my projects are available at [https://nsofianos.github.io.](nsofianos.github.io)
 
 - 📫 How to reach me **sofianos.n@outlook.com**
 
